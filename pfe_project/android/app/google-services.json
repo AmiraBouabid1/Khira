@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12241161073",
+    "project_id": "khira-3212c",
+    "storage_bucket": "khira-3212c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12241161073:android:af8c4d3ae52f42b0f904d0",
+        "android_client_info": {
+          "package_name": "com.example.pfe_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12241161073-isd3u99l8dg9e4vsi8ccmhq7gsj6took.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPv1OLtUhs_zVwAFjTTkim7xCia0YCgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12241161073-isd3u99l8dg9e4vsi8ccmhq7gsj6took.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
